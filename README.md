@@ -1,1 +1,1 @@
-This project aims to predict sentiments of restaurant reviews by pre-processing, vectorization, training and classification and analysis of the dataset.
+This project predicts sentiments of restaurant reviews by pre-processing, vectorization, training and classification and analysis of the dataset.It converts customer reviews into insights, helps understand the nuances in customer reviews and ultimately aims to improve customer experience.
